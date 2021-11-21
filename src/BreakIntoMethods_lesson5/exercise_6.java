@@ -37,3 +37,4 @@ public class exercise_6 {
         return kmHours;
     }
 }
+

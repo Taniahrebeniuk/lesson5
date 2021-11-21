@@ -20,3 +20,4 @@ public class task3 {
         return codes;
     }
 }
+
