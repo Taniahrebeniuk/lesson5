@@ -28,4 +28,3 @@ public class exercise_4 {
         return days;
     }
 }
-

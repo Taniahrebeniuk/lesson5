@@ -13,4 +13,3 @@ public class exercise_3 {
         return inch * 0.0254;
     }
 }
-
