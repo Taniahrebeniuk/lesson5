@@ -17,7 +17,6 @@ public class GenerateRandomNumber {
             String alphanumeric = alpha + numeric;
             String alphabet = null;
 
-
             if (mode == "alpha") {
                 alphabet = alpha;
             } else if (mode == "numeric") {
