@@ -4,12 +4,12 @@ package homework6;
 public class GenerateRandomNumbers {
 
     public static void main(String[] args) {
-        String str1 = generateString("alpha", 10);
-        System.out.println(str1);
-        String str2 = generateString("numeric", 10);
-        System.out.println(str2);
-        String str3 = generateString("alphanumeric", 10);
-        System.out.println(str3);
+        String strOne = generateString("alpha", 10);
+        System.out.println(strOne);
+        String strTwo = generateString("numeric", 10);
+        System.out.println(strTwo);
+        String strThree = generateString("alphanumeric", 10);
+        System.out.println(strThree);
     }
 
     public static String generateString (String mode,int lenght){
