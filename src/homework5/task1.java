@@ -12,7 +12,8 @@ public class task1 {
 
     public static boolean CheckEvenOdd ( int number) {
         if (number % 2 == 0)    {
-            return true;}
+            return true;
+        }
         else {
             return false ;
         }

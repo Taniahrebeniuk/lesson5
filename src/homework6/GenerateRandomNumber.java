@@ -1,7 +1,6 @@
 package homework6;
 
 
-
 public class GenerateRandomNumber {
 
     public static void main(String[] args) {
