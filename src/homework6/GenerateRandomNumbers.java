@@ -5,7 +5,7 @@ This function should return a randomly generated string of given length accordin
 Modes: alpha, numeric, alphanumeric
 Output —> String. */
 
-public class GenerateRandomNumber {
+public class GenerateRandomNumbers {
 
     public static void main(String[] args) {
         String str1 = generateString("alpha", 10);
